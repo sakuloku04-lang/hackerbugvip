@@ -1,4 +1,4 @@
-apt update
+Iapt update
 
 apt upgrade
 
